@@ -1,2 +1,3 @@
 form lihat data barang
 form edit data barang
+form create data barang
