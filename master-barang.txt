@@ -1,4 +1,4 @@
-form lihat data barang
+form lihat data barang -> cetak
 form edit data barang
 form create data barang
 fitur export import excel
